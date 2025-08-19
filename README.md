@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there! 👋 I'm  Vedangi or you can call me "VEDA"
 
-<!--
-**Vedangi1/Vedangi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity Explorer | Python Developer | GenAI Enthusiast | Frontend Developer
 
-Here are some ideas to get you started:
+I’m a passionate student diving deep into Cybersecurity, GenAI, Python, and Frontend Development. I love creating projects that are not only technically solid but also practically useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me:
+
+🎓 Final-year student aiming to make a mark in Cybersecurity
+
+🛠️ Hands-on experience with Python, AI/ML, GenAI, and Secure Communication Systems
+
+🌐 AWS Cloud Practitioner certified{super soon} – building cloud solutions one step at a time
+
+✍️ Organizer & Content Creator – bringing tech communities together
+
+🎶 Outside of tech: Music, adventure, and travel keep me energized
+
+
+
+💡 Fun Fact: I believe tech is best enjoyed with a little curiosity, a lot of experimentation, and just enough coffee ☕
